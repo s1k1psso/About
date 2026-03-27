@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Jon Wild / DH 530 Portfolio"
+title                    : "Portfolio"
 title_separator          : "-"
 name                     : &name "Jon Wild"
 description              : &description "DH 530 Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -30,7 +30,7 @@ author:
   location         : "amiskwacîwâskahikan"
   employer         : "University of Alberta"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jwild@ualberta.ca" 
 
   # Academic websites
   academia         : # URL
